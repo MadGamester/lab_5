@@ -1,0 +1,7 @@
+C:\Users\Bohdan Stroiuk\Desktop\Lab\Rodion\Lab5\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\Bohdan Stroiuk\Desktop\Lab\Rodion\Lab5\Task_3\bin\Debug\Task_3.exe
+C:\Users\Bohdan Stroiuk\Desktop\Lab\Rodion\Lab5\Task_3\bin\Debug\Task_3.pdb
+C:\Users\Bohdan Stroiuk\Desktop\Lab\Rodion\Lab5\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+C:\Users\Bohdan Stroiuk\Desktop\Lab\Rodion\Lab5\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan Stroiuk\Desktop\Lab\Rodion\Lab5\Task_3\obj\Debug\Task_3.exe
+C:\Users\Bohdan Stroiuk\Desktop\Lab\Rodion\Lab5\Task_3\obj\Debug\Task_3.pdb
